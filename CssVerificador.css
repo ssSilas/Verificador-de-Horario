@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(153, 123, 89);
+    height: 200px;
+    font: normal 15pt Arial;
+}
+header{
+    color:rgba(255, 255, 255, 0.938);font-size: 30pt;text-shadow: 2px 2px 2px #000;
+    text-align: center;
+    padding-top: 1%;
+}
+#CenterDv{
+    position: absolute;
+    background-color: rgb(0,0,0);color: white; font-size: 15pt;
+    text-align: center; 
+    height:400px; width:600px; left:28%;top: 14%;
+    border-radius:15px 15px 15px 15px ; box-shadow:5px 7px 5px rgb(129, 127, 127);
+}
+section{
+    position: relative;
+    size: 500px;
+}
+#saudation{
+    position: relative;
+    color: white; font-size: 30px;
+    text-align: center;top: 360px;
+}
+#interFoo{
+    position: relative;
+    color: black;
+    text-align: center;top: 400px;
+}
